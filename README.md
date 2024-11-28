@@ -1,0 +1,2 @@
+# TestStockRadar
+ test of StockRadar
